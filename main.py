@@ -8,4 +8,4 @@ from fastapi.responses import HTMLResponse, JSONResponse # HTMLResonse para pagi
 import pandas as pd #pandas nos ayuda a manejar datos en tablas como si fuera un excel
 import nltk #nltk es una libreria par procesar texto y analizar palabras
 from nltk.tokenize import word_tokenize #se usa para dividir un texto en palabras individuales
-from nltk.corpus import wordnet #nos ayuda a encontrar sinonimos de palabras
+from nltk.corpus import wordnet #nos ayuda a encontrar sinonimos de palabras.
